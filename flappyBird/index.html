@@ -88,13 +88,15 @@
             }
         },
         pipes={
+            _pipes: [],
+            reset:function(){
+            this._pipes=[];
+            },
             update: function(){
                
             },
             draw: function(ctx){
-                ctx.save();
-                ctx.translate(this.x,this.y);
-                ctx.rotate();
+               
             }
         };
     
