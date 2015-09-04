@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "flappyBird-v1"
+        },
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "flappyBird-v1"
+        },
+        "org.apache.cordova.device": {
+            "PACKAGE_NAME": "flappyBird-v1"
+        }
+    },
+    "dependent_plugins": {}
+}
